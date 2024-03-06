@@ -1,2 +1,2 @@
 # Cryptozombies 
-# remind Solidity syntax Project
+# Remind Solidity syntax
